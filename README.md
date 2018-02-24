@@ -16,3 +16,8 @@ TODO :
 - [ ] Try out an LSTM network.
 - [ ] Implement generative algorithm to find optimal hyperparameters.
 - [ ] Try out RAINBOW.
+
+
+
+Created by Youssef Azzaoui based on Google Deepmind's work.
+If any question, please contact me y@azzaoui.fr

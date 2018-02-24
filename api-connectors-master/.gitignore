@@ -1,6 +1,0 @@
-node_modules/
-*.egg-info
-build/
-dist/
-*.pyc
-npm-debug.log
